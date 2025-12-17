@@ -21,9 +21,6 @@
 
 ---
 
-## 🖼️ Screenshot (example)
-
-*(Add your screenshots here to demonstrate UI/CLI)*
 
 ```bash
 $ python predict.py
